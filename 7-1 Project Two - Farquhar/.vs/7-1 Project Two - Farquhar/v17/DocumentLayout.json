@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\justi\\source\\repos\\7-1 Project Two - Farquhar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD223C4-100B-49E7-AC83-A5009C5F9671}|7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.vcxproj|C:\\Users\\justi\\source\\repos\\7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDD223C4-100B-49E7-AC83-A5009C5F9671}|7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.vcxproj|solutionrelative:7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD223C4-100B-49E7-AC83-A5009C5F9671}|7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.vcxproj|C:\\Users\\justi\\source\\repos\\7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar\\CSVparser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDD223C4-100B-49E7-AC83-A5009C5F9671}|7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.vcxproj|solutionrelative:7-1 Project Two - Farquhar\\CSVparser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVparser.cpp",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar\\CSVparser.cpp",
+              "RelativeDocumentMoniker": "7-1 Project Two - Farquhar\\CSVparser.cpp",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar\\CSVparser.cpp",
+              "RelativeToolTip": "7-1 Project Two - Farquhar\\CSVparser.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAAD4v2AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T00:23:40.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7-1 Project Two - Farquhar.cpp",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.cpp",
+              "RelativeDocumentMoniker": "7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.cpp",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.cpp",
+              "RelativeToolTip": "7-1 Project Two - Farquhar\\7-1 Project Two - Farquhar.cpp",
+              "ViewState": "AQIAAGMBAAAAAAAAAAAqwGABAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T23:38:37.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
